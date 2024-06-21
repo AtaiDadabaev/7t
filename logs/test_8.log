@@ -1,0 +1,74 @@
+INFO ===> Test test_8 started at 2024-05-30 11:47:55.516311
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 11:47:59.419090
+INFO ===> Test test_8 started at 2024-05-30 11:51:02.799082
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 11:51:06.069100
+INFO ===> Test test_8 started at 2024-05-30 12:03:58.425007
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 12:04:01.849493
+INFO ===> Test test_8 started at 2024-05-30 12:08:36.773772
+INFO ===> Test test_8 started at 2024-05-30 12:09:19.939224
+INFO ===> Test test_8 started at 2024-05-30 12:11:37.124713
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 12:11:40.114893
+INFO ===> Test test_8 started at 2024-05-30 12:12:18.875734
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 12:12:22.270591
+INFO ===> Test test_8 started at 2024-05-30 12:13:34.025668
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Ïëàíøåòû')
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO Found element ('link text', 'Samsung Galaxy Tab 10.1')
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-30 12:13:39.244797

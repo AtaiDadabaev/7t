@@ -1,0 +1,56 @@
+INFO ===> Test test_7 started at 2024-05-30 11:47:52.537618
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 11:47:55.513015
+INFO ===> Test test_7 started at 2024-05-30 11:50:59.748146
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 11:51:02.796192
+INFO ===> Test test_7 started at 2024-05-30 12:03:55.133949
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 12:03:58.422240
+INFO ===> Test test_7 started at 2024-05-30 12:08:36.725032
+INFO ===> Test test_7 started at 2024-05-30 12:09:19.882935
+INFO ===> Test test_7 started at 2024-05-30 12:11:33.924264
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 12:11:37.123071
+INFO ===> Test test_7 started at 2024-05-30 12:12:16.044240
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 12:12:18.873537
+INFO ===> Test test_7 started at 2024-05-30 12:13:28.893305
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_7 finished at 2024-05-30 12:13:34.023516

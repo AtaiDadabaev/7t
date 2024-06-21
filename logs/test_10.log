@@ -1,0 +1,152 @@
+INFO ===> Test test_10 started at 2024-05-30 11:48:02.374202
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 11:48:06.461179
+INFO ===> Test test_10 started at 2024-05-30 11:51:08.973755
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 11:51:13.021739
+INFO ===> Test test_10 started at 2024-05-30 12:04:05.395611
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 12:04:09.326970
+INFO ===> Test test_10 started at 2024-05-30 12:08:36.871790
+INFO ===> Test test_10 started at 2024-05-30 12:09:20.051859
+INFO ===> Test test_10 started at 2024-05-30 12:11:43.608640
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 12:11:47.466705
+INFO ===> Test test_10 started at 2024-05-30 12:12:25.723725
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 12:12:29.547786
+INFO ===> Test test_10 started at 2024-05-30 12:13:44.208170
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO Found element ('partial link text', 'Îòçûâîâ (')
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Clicked on 'input_name'
+INFO Found element ('css selector', '#input-name')
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Clicked on 'input_review'
+INFO Found element ('css selector', '#input-review')
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO Found element ('css selector', 'input:nth-child(5)')
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO Found element ('css selector', '#button-review')
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-30 12:13:49.591494

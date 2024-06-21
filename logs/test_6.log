@@ -1,0 +1,56 @@
+INFO ===> Test test_6 started at 2024-05-30 11:47:48.126864
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 11:47:52.533091
+INFO ===> Test test_6 started at 2024-05-30 11:50:56.851270
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 11:50:59.745430
+INFO ===> Test test_6 started at 2024-05-30 12:03:52.052028
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 12:03:55.131279
+INFO ===> Test test_6 started at 2024-05-30 12:08:36.407406
+INFO ===> Test test_6 started at 2024-05-30 12:09:19.664794
+INFO ===> Test test_6 started at 2024-05-30 12:11:30.922397
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 12:11:33.922652
+INFO ===> Test test_6 started at 2024-05-30 12:12:13.323664
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 12:12:16.041542
+INFO ===> Test test_6 started at 2024-05-30 12:13:24.178880
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'MacBook')
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO Found element ('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-30 12:13:28.890236

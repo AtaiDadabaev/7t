@@ -1,0 +1,74 @@
+INFO ===> Test test_9 started at 2024-05-30 11:47:59.421774
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 11:48:02.372077
+INFO ===> Test test_9 started at 2024-05-30 11:51:06.071224
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 11:51:08.971603
+INFO ===> Test test_9 started at 2024-05-30 12:04:01.852976
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 12:04:05.393007
+INFO ===> Test test_9 started at 2024-05-30 12:08:36.820863
+INFO ===> Test test_9 started at 2024-05-30 12:09:19.995561
+INFO ===> Test test_9 started at 2024-05-30 12:11:40.116973
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 12:11:43.606289
+INFO ===> Test test_9 started at 2024-05-30 12:12:22.272747
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 12:12:25.722058
+INFO ===> Test test_9 started at 2024-05-30 12:13:39.247479
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('link text', 'Телефоны')
+INFO main_page: Clicked on 'droptelephone'
+INFO main_page initialized
+INFO Found element ('link text', 'iPhone')
+INFO main_page: Clicked on 'iphone'
+INFO main_page initialized
+INFO Found element ('css selector', '#button-cart')
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_9 finished at 2024-05-30 12:13:44.206039
